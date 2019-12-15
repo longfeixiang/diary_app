@@ -1,0 +1,9 @@
+{
+  "name": "diary_app",
+  "version": "0.0.1",
+  "description": "nodejs",
+  "main": "app.js",
+  "repository": "git@github.com:longfeixiang/diary_app.git",
+  "author": "longfeixiang <superfeixiang@gmail.com>",
+  "license": "MIT"
+}
